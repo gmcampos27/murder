@@ -85,8 +85,6 @@ fato(fortuna_ber).
 fato(luis_deve).
 fato(arma_de_luis).
 
-% alibi_n_confiavel_NOME: significa q NOME é o alibi dado por alguem q
-% n é confiavel
+% alibi_n_confiavel_NOME: significa q NOME é o alibi dado por alguem q n é confiavel
 
-% alibi_confiavel_NOME: significa q NOME é o álibi dado por alguem
-% confiavel
+% alibi_confiavel_NOME: significa q NOME é o álibi dado por alguem confiavel
