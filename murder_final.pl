@@ -8,7 +8,7 @@ dia(alan,quinta). %alan foi visto quinta
 alibi(lucas,bernardo).
 alibi(paulo,bernardo).
 alibi(luis, lucas).
-alibi(lucas,alan).
+alibi(alan,lucas).
 confiavel(bernardo).
 confiavel(lucas).
 not(confiavel(alan)).
